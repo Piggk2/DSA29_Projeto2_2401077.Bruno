@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/66c8d540-c0b5-4f89-9c1a-400ad8314e79)
+![image](https://github.com/user-attachments/assets/a23982cd-64c1-4ffa-b770-54f93fc3a1a9)
 
 Neste notebook, realizaremos uma análise exploratória do dataset de voos para responder às seguintes perguntas:
 
