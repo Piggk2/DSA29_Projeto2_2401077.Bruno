@@ -12,7 +12,7 @@ O dataset utilizado está disponível em: [nycflights.csv](https://raw.githubuse
 
 - `analise_flights`: Script principal
 - `dataset`: 'https://raw.githubusercontent.com/JackyP/testing/master/datasets/nycflights.csv'
-- 'Grp1_DSA29.pptx' : Análises realizadas
+- `Grp1_DSA29.pptx` : Análises realizadas
 
 ## Dependências
 
